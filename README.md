@@ -10,7 +10,7 @@ make
 
 ## Screenshot
 
-![Screenshot](Screenshot.png)
+![Screenshot](Screenshot.jpg)
 
 ## Contributors
 
