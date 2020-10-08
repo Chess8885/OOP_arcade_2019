@@ -1,11 +1,18 @@
 # OOP_arcade_2019
 
+A retro platform
+
 ![Illustration](arcade.jpg)
 
 ## Compilation
 
 ```bash
 make
+```
+## Usage
+
+```bash
+./arcade ./lib/lib_arcade_sfml.so
 ```
 
 ## Screenshot
